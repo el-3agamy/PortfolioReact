@@ -1,11 +1,9 @@
-import { useState } from 'react'
 import Navbar from './Components/Navbar/Nav.jsx'
 import Head from './Components/Head/Head.jsx'
 import Port from './Components/Portfolio/Portfolio.jsx'
 import About from './Components/About/About.jsx'
 import Contact from './Components/Contact/Contact.jsx'
 import NotFound from './Components/NotFound/NotFound.jsx'
-import Footer from './Components/Footer/Footer.jsx'
 
 
 import './App.css'
