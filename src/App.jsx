@@ -6,9 +6,9 @@ import Contact from './Components/Contact/Contact.jsx'
 import NotFound from './Components/NotFound/NotFound.jsx'
 
 
-import './App.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Layout from './Components/Layout/Layout.jsx'
+import './App.css'
 
 
 function App() {

@@ -13,7 +13,6 @@ export default function Navbar (){
                 <label htmlFor="check" className='btncheck'>
                 <i className="fa-solid fa-bars burger"></i>
                 </label>
-                      <a href=""></a>
 
                 <ul>
                     <li><NavLink to="/portfolio">PORTFOLIO</NavLink></li>
